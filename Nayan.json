@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "𝗣𝗶𝗸𝗮 - 𝗕𝗼𝘁 🦋",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100004819114915",
     ""
